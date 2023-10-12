@@ -26,6 +26,6 @@ To use the Prettier configuration from **pm-prelint** in your project, add the f
     const { prettier } = require('pm-prelint/index.js')
     module.exports = prettier
 
-## #Author
+## Author
 
 Pablo Martínez: [PabloEmv (github.com)](https://github.com/PabloEmv)
