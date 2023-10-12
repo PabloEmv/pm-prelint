@@ -1,0 +1,19 @@
+{
+  "name": "pm-prelint",
+  "version": "1.0.0",
+  "description": "Configuring ESLint and Prettier for React projects with TypeScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PabloEmv/pm-prelint"
+  },
+  "keywords": [
+    "eslint",
+    "prettier",
+    "react",
+    "typescript"
+  ],
+  "scripts": {},
+  "author": "pablomartinez.dev",
+  "license": "MIT"
+}
