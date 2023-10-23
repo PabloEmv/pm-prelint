@@ -1,6 +1,6 @@
 {
   "name": "pm-prelint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Configuring ESLint and Prettier for React projects with TypeScript",
   "main": "index.js",
   "repository": {
